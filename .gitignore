@@ -1,6 +1,10 @@
 cmake-build-*
-build
-Build
+build/*
+Build/*
+install/*
+log/*
+src/ov_data/*
+docs
 *.*~
 .idea
 doxgen_generated
